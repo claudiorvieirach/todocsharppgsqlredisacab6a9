@@ -1,9 +1,3 @@
-# Todo C# With Postgresql and Redis on ACA
+# SASC
 
-```
-azd login
-azd provision
-
-# build container images
-azd up
-```
+a [Sails](http://sailsjs.org) application
